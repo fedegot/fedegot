@@ -1,3 +1,5 @@
+<img src="https://mcdn.wallpapersafari.com/medium/10/62/40DVWQ.jpg" style=" align:center">
+
 #### Hi there 👋
 #### I'm a Junior web Developer working in Manchester, UK.
 ##### NOW
@@ -18,7 +20,7 @@
 #####
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style=" align:center" />
 
 
 
